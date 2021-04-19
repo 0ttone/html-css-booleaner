@@ -2,6 +2,14 @@
     margin: 0;
     padding: 0;
 }
+
+
+#testata img {
+    width: 10%;
+    text-align: left;
+    padding-left: 100px;
+    
+}
 /* NOOOOOO!! QUARANTA MINUTI PER IL PERCORSO DELLA CARTELLA  */
 #testata {
     background-image: url("../img/pattern.png");
@@ -16,12 +24,13 @@ h3, h4, h5 {
 }
 
 .container {
-    width: 100%;
-    margin: auto;
+    width: 1000px;
+    margin: 0 auto;
 }
 /* CENTRATURA ORRIZZONTALE margin 0 non va!!!???? */
 .foto-principali {
     width: 100%;
+    padding-left: 100px;
     margin: 0;
 
 }
@@ -29,4 +38,8 @@ h3, h4, h5 {
 .foto {
     /* width: 50% */
     display: inline-block;
+}
+
+ul {
+    margin-top: 30px;
 }
