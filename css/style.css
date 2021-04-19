@@ -1,4 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
+/* NOOOOOO!! QUARANTA MINUTI PER IL PERCORSO DELLA CARTELLA  */
+#testata {
+    background-image: url("../img/pattern.png");
+    width: 100%;
+    height: 100px;
+    background-color: rgba(121, 121, 182, 0.3);
+    background-size: contain;
+}
+
