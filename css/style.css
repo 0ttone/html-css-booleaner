@@ -21,7 +21,7 @@
 }
 /* PROVE DI RISULTATO */
 h3, h4, h5 {
-    padding-left: 100px;
+    /* padding-left: 100px; */
     font-family: Arial, Geneva, Tahoma, sans-serif;
 }
 
@@ -38,12 +38,12 @@ h3, h4, h5 {
 }
 .container {
     width: 1000px;
-    margin: 0; 
+    margin: auto; 
 }
 /* CENTRATURA ORIZZONTALE margin 0 non va!!!???? */
 .foto-principali {
     width: 100%;
-    padding-left: 100px;
+    /* padding-left: 100px; */
     margin: 0;
 
 }
@@ -51,9 +51,9 @@ h3, h4, h5 {
 .foto {
     width: 480px;
     display: inline-block;
-}
+    
 
-li {
+.lista ul li {
     /* margin-top: 30px; */
     list-style-type: circle;
 }
