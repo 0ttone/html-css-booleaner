@@ -10,4 +10,23 @@
     background-color: rgba(121, 121, 182, 0.3);
     background-size: contain;
 }
+/* PROVE DI RISULTATO */
+h3, h4, h5 {
+    padding-left: 100px;
+}
 
+.container {
+    width: 100%;
+    margin: auto;
+}
+/* CENTRATURA ORRIZZONTALE margin 0 non va!!!???? */
+.foto-principali {
+    width: 100%;
+    margin: 0;
+
+}
+/* PROVE DI RISULTATO */
+.foto {
+    /* width: 50% */
+    display: inline-block;
+}
